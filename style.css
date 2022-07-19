@@ -1,0 +1,30 @@
+.cool {
+    background-color: black;
+    background-position-x: center;
+    height: 350px;
+    width: 900px;
+    left: 150px;
+    top: 90px;
+    color: azure;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+.frist-step {
+    text-align: left;
+    margin-bottom: 10%;
+    font-size: 10px;
+    padding: 50px;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    color: azure;
+    font-weight: 600;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
